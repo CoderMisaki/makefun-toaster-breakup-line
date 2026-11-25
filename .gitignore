@@ -1,0 +1,6 @@
+# make.fun kit (downloaded bundle; not part of the entry)
+u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92-kit/
+cli/
+harness/
+*-kit/
+__pycache__/
